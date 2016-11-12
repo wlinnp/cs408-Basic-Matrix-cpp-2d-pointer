@@ -1,0 +1,86 @@
+Basic Test
+Left
+1		2		3		4		5		
+2		2		2		2		2		
+3		1		1		1		3		
+0		0		2		3		-2		
+4		4		-4		0		0		
+
+
+Right
+1		0		0		0		0		
+1		2		1		2		1		
+0		0		1		0		0		
+1		1		1		1		1		
+2		2		-2		2		2		
+
+
+Addition
+2		2		3		4		5		
+3		4		3		4		3		
+3		1		2		1		3		
+1		1		3		4		-1		
+6		6		-6		2		2		
+
+
+Subtraction
+0		2		3		4		5		
+1		0		1		0		1		
+3		1		0		1		3		
+-1		-1		1		2		-3		
+2		2		-2		-2		-2		
+
+
+Product
+1		21		3		15		18		
+2		14		2		10		12		
+3		11		1		9		14		
+0		6		2		3		-2		
+4		8		-4		4		24		
+
+
+Advanced Test
+for size: 1000
+Addition: 6368000
+Subtraction: 6286000
+Product: 3643281000
+for size: 1100
+Addition: 7752000
+Subtraction: 7820000
+Product: 4893455000
+for size: 1200
+Addition: 9236000
+Subtraction: 9477000
+Product: 6307126000
+for size: 1300
+Addition: 10669000
+Subtraction: 10755000
+Product: 7966942000
+for size: 1400
+Addition: 13462000
+Subtraction: 13026000
+Product: 9840747000
+for size: 1500
+Addition: 14319000
+Subtraction: 14525000
+Product: 12157853000
+for size: 1600
+Addition: 16334000
+Subtraction: 16474000
+Product: 14772662000
+for size: 1700
+Addition: 18055000
+Subtraction: 17957000
+Product: 17770182000
+for size: 1800
+Addition: 20253000
+Subtraction: 20212000
+Product: 21132246000
+for size: 1900
+Addition: 23394000
+Subtraction: 23655000
+Product: 24909080000
+for size: 2000
+Addition: 24877000
+Subtraction: 24833000
+Product: 28950885000
