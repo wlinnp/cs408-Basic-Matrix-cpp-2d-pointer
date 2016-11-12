@@ -224,8 +224,6 @@ std::string toString(double** matrix, int size)
 
 double** add(double** left, double** right, int size)
 {
-	std::cout << toString(left, size) << std::endl;
-	std::cout << toString(right, size) << std::endl;
 	double** result = new double*[size];
     for (int i = 0; i < size; ++i) 
     {
